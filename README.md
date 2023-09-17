@@ -26,8 +26,6 @@
     </h1>
   </div>
   
-
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jay2250&label=Profile%20views&color=0e75b6&style=flat" alt="Jay2250" /> </p>
   
 
 
