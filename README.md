@@ -36,7 +36,7 @@
 ---
 
 :man_technologist: About me :
-- 🔭 I’m currently working on ...:wave: To become one of the best Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in India.
+- 🔭 I’m currently working on ... :wave: To become one of the best Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in India.
 - 🌱 I’m currently learning ... :book: Web Development, Machine Learning, GUI Development using Python.
 - 👯 I’m looking to collaborate on ... :handshake: anything that is related to Python.
 - 🤔 I’m looking for help with ... 😶‍🌫️ Experience Gaining and Exploring new Realm of Computer Science.
